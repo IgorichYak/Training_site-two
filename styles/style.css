@@ -1,0 +1,288 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a:link {
+	color: #666666;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+
+a:visited {
+	color: #666666;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background: url(../img/back_all.jpg);
+	font: 12px verdana, Helvetica, sans-serif;
+	color: #2E2E2E;
+}
+
+#main
+{
+background: url(../img/back_all1.gif) repeat-x;
+width: 100%;
+}
+
+#header {
+	width: 778px;
+	height: 444px;
+	padding-left: 30px;
+	background: url(../img/header.jpg) no-repeat;
+}
+
+#logo {
+	width: 289px;
+	height: 370px;
+}
+
+#logo h1 {
+	padding-top: 38px;
+	font-size: 22px;
+	font-weight: normal;
+}
+
+#logo h1 a {
+	color: #ffffff;
+}
+
+#logo h2 {
+	margin-top: 5px;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+#logo h2 a {
+	color: #ffffff;
+}
+
+#logo a {
+	text-decoration: none;
+	text-transform: lowercase;
+	font-style: italic;
+}
+#m1
+{
+   margin: -15px 0 0 0;
+   padding-left: 270px;	
+}
+#metamorph { 
+    font-size: 14px;
+	color: #ffffff;
+}
+#menu {
+height: 74px;
+}
+
+#menu ul {
+	margin: 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	width: 130px;
+	height: 44px;
+	margin-left: 1px;
+	padding-top: 30px;
+	text-align: center;
+	text-decoration: none;
+	color: #3A6EA5;
+	font-weight: bold;
+}
+
+#menu a:hover {
+	height: 44px;
+	font-size: 16px;
+	text-decoration: underline;
+	background: url(../img/menu_r.gif) repeat-x;
+}
+
+
+#content
+{
+width: 788px;
+padding: 10px;
+}
+
+#right
+{
+	float: right;
+	width: 211px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+
+
+#left
+{
+width: 550px;
+}
+
+#left ol, #left ul
+{
+margin-left: 30px;
+}
+
+#left .box
+{
+margin: 10px;
+padding: 10px;
+border: 1px solid #9C9995;
+background: #ffffff;
+}
+
+#left H2
+{
+	font-size: 16px;
+	color: #666666;
+
+}
+
+#left H1
+{
+	font-size: 18px;
+	color: #666666;
+	padding-bottom: 10px
+}
+
+#left a
+{
+color: #666666;
+text-decoration: none;
+}
+
+#left p {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+}
+
+#left h2 {
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	color: #666666;
+}
+.date {
+	text-align: right;
+	color: #666666;
+	font-size: 11px;
+}
+
+.date a {
+	color: #666666;
+}
+
+#left .pic
+{
+float: left;
+margin: 5px;
+}
+
+#left .pic1
+{
+float: right;
+margin: 5px;
+}
+
+#footer {
+	height: 54px;
+	padding-top: 20px;
+	background: #ACCFEC url(../img/footer.gif) repeat-x;
+	text-align: center;
+}
+
+#footer p {
+	margin: 0;
+	font-size: 10px;
+	color: #666666;
+}
+
+#footer a {
+	color: #666666;
+	font-size: 10px;
+}
+
+#footer a:hover {
+	color: #FF0000;
+}
+.small p {
+	margin: 0;
+	font-size: 11px;
+}
+.boxed {
+	margin-bottom: 20px;
+}
+
+.boxed .title {
+	height: 37px;
+	padding: 15px 0 0 30px;
+	background: #ACCFEC url(../img/title.gif) repeat-x;
+	font-size: 14px;
+	width: 191px;
+	text-transform: uppercase;
+	color: #548198;
+}
+
+.boxed .content2 {
+	padding: 10px;
+}
+
+#login {
+}
+
+#login form {
+}
+
+#login fieldset {
+	border: none;
+}
+
+#login legend {
+	display: none;
+}
+
+#login label {
+	font-size: x-small;
+	font-weight: bold;
+}
+
+#login input {
+	margin-bottom: 5px;
+}
+
+#text1, #text2 {
+	width: 150px;
+	padding: 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+
+
+#updates ul {
+	margin: 0;
+	list-style: none;
+}
+
+#updates h3 {
+	margin: 0;
+	font: bold x-small Verdana, Arial, Helvetica, sans-serif;
+}
+
+#updates p {
+	margin-bottom: 1.4em;
+	font-size: smaller;
+	line-height: normal;
+}
